@@ -1,0 +1,19 @@
+HTTrack3.49-2 launched on Mon, 01 Dec 2025 13:13:18 at https://godelterminal.com
+(httrack https://godelterminal.com -O /Users/tacohacker/Desktop/godelterminal-copy )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:33	Error: 	"error:00000005:lib(0)::reason(5)" (-5) after 2 retries at link https://godelterminal.com/robots.txt (from primary/primary)
+13:19:33	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/cart (from https://godelterminal.com/)
+13:19:33	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/careers (from https://godelterminal.com/)
+13:19:33	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/referral (from https://godelterminal.com/)
+13:19:33	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/contact (from https://godelterminal.com/)
+13:24:29	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/careers-senior-full-stack-engineer (from https://godelterminal.com/careers)
+13:24:29	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/careers-frontend-engineer (from https://godelterminal.com/careers)
+13:24:29	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://godelterminal.com/careers-backend-engineer (from https://godelterminal.com/careers)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 13 seconds : 17 links scanned, 9 files written (3450179 bytes overall) [293975 bytes received at 436 bytes/sec], 3450179 bytes transferred using HTTP compression in 9 files, ratio 8%
+(1 errors, 7 warnings, 0 messages)
